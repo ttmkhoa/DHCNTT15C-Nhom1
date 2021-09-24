@@ -1,5 +1,5 @@
 package simple;
-
+// dong ghi chu
 public class ThreadSimple extends Thread{
 
 	public void run() {
